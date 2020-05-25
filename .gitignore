@@ -1,0 +1,6 @@
+*.pyc
+*.mako.py
+env
+.vscode
+.mypy_cache
+.json
